@@ -1,5 +1,14 @@
-# Music Player Source Code
-Fully functional Music Player Application Source code that is written in Swift 4.1, Xcode 9.3
+# Music Player 
+
+
+[![Swift5 compatible][Swift5Badge]][Swift5Link]
+[![SPM compatible][SPMBadge]][SPMLink]
+
+[Swift5Badge]: https://img.shields.io/badge/swift-5-orange.svg?style=flat
+[Swift5Link]: https://developer.apple.com/swift/
+
+[SPMBadge]: https://img.shields.io/badge/SPM-compatible-brightgreen.svg
+[SPMLink]: https://github.com/apple/swift-package-manager
 
 
  ![alt tag](https://raw.githubusercontent.com/bpolat/Music-Player/master/Music%20Player/screenshot3.png)
@@ -12,35 +21,9 @@ Fully functional Music Player Application Source code that is written in Swift 4
  
  Introduction
 ---------------------------------------------------------
-Music Player for iOS devices. Support from iOS 8+, compiled with latest Swift 4.1. It has beautiful minimalistic desing and 4 different unique theme background.
+Music Player for iOS devices. It has beautiful minimalistic desing and 4 different unique theme background.
 Check out preview video :
 https://www.youtube.com/watch?v=5FJzGqrUI3k
 
 
 
-
-How to use
-----------------------------------------------------------
-Extremely easy to use. Clone prohect from github and just import your .mp3 files, album artwork and fill out .plist file. For further instruction see "readme.pdf" file in project.
-
-
-
-
-Licence
------------------------------------------------------------
-Free for commercial or personal usage 
-
-
-
-
-Contributions
------------------------------------------------------------
-Feel free to fetch and improve the project.
-
-
-
-
-About
------------------------------------------------------------
-My name is Bahtiyar, freelance mobile developer based in Istanbul. Feel free to contact me for hiring or collabration.
-Contact email:  bpolat@live.com

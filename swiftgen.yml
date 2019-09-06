@@ -1,0 +1,23 @@
+
+
+
+ib:
+  inputs: 
+    - MusicPlayerExample/Base.lproj
+  outputs:
+    - templateName: scenes-swift4
+      output: MusicPlayerExample/Generated/Storyboard Scenes.swift
+
+
+xcassets:
+  inputs:
+    - MusicPlayerExample/Assets.xcassets
+  outputs:
+    - templateName: swift4
+      output: MusicPlayerExample/Generated/Assets.swift
+
+plist:
+  inputs: MusicPlayerExample/Resources/list.plist
+  outputs:
+    templateName: runtime-swift4
+    output: MusicPlayerExample/Generated/Plist.swift

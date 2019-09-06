@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftyUserDefaults",
+        "repositoryURL": "https://github.com/sunshinejr/SwiftyUserDefaults.git",
+        "state": {
+          "branch": null,
+          "revision": "6c65d48296880db837afbaf28198392e416e58ef",
+          "version": "5.1.0"
+        }
+      },
+      {
+        "package": "UIFontComplete",
+        "repositoryURL": "https://github.com/Nirma/UIFontComplete",
+        "state": {
+          "branch": null,
+          "revision": "8769ea0c9a9c3656e03c2796e197e581997f2c7f",
+          "version": "5.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
